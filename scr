@@ -1,0 +1,3 @@
+src/gerador_dados.py # arquivo responsável pela geração dos dados qeu serao simulados 
+
+src/tratamento_dados.py # arquivo responsável pelo tratamento 
